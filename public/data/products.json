@@ -1,0 +1,1087 @@
+[
+        {
+          "id": 1,
+          "name": "Playwood Arm Chair",
+          "brand": "Fusion Dot High Fashion",
+          "price": 320.0,
+          "colors": ["Blue", "Orange", "Brown", "Green"],
+          "images": [
+            "/products/p11.png",
+            "/products/p14.png",
+            "/products/p15.png",
+            "/products/p22.png"
+          ],
+          "rating": {
+            "avg": 4,
+            "count": 3
+          },
+          "description": {
+            "heading": "Varius tempor.",
+            "desc": "Aliquam dis vulputate vulputate integer sagittis. Faucibus dolor ornare faucibus vel sed et eleifend habitasse amet.",
+            "More_Details": [
+              "Aliquam dis vulputate vulputate integer sagittis.",
+              "Faucibus ds diam arcu, nulla lobortis justo netus dis.",
+              "Eu in fringilla vulputate nunc nec.",
+              "Dui, massa viverra aliquet. Non varius proin."
+            ]
+          },
+          "categories": ["Furniture", "Prestashop", "Magento"],
+          "tags": ["Furniture", "Chair", "Playwood"],
+          "discounts": 5,
+          "additionalInfo": "Various tempor lorem ipsum.",
+          "reviews": [
+            {
+              "stars": 5,
+              "image": "https://randomuser.me/api/portraits/women/2.jpg",
+              "comment": "Velit consectetur neque, elit, aliquet.",
+              "reviewer": "User 807"
+            },
+            {
+              "stars": 5,
+              "image": "https://randomuser.me/api/portraits/men/3.jpg",
+              "comment": "Imperdiet consequat, quis diam arcu.",
+              "reviewer": "User 546"
+            },
+            {
+              "stars": 3,
+              "image": "https://randomuser.me/api/portraits/women/2.jpg",
+              "comment": "Aliquam dis vulputate vulputate integer sagittis.",
+              "reviewer": "User 342"
+            }
+          ],
+          "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+          "featured": true,
+          "trending": true,
+          "specialOffer": true,
+          "createdAt": "2023-11-20T12:00:00Z"
+        },
+        {
+          "id": 2,
+          "name": "Ergonomic Office Chair",
+          "brand": "ComfyLife Solutions",
+          "price": 280.0,
+          "colors": ["Black", "Gray", "White", "Sky"],
+          "images": [
+            "/products/p13.png",
+            "/products/p17.png",
+            "/products/p18.png",
+            "/products/p20.png"
+          ],
+          "rating": {
+            "avg": 4,
+            "count": 3
+          },
+          "description": {
+            "heading": "Varius tempor.",
+            "desc": "Aliquam dis vulputate vulputate integer sagittis. Faucibus dolor ornare faucibus vel sed et eleifend habitasse amet.",
+            "More_Details": [
+              "Aliquam dis vulputate vulputate integer sagittis.",
+              "Faucibus ds diam arcu, nulla lobortis justo netus dis.",
+              "Eu in fringilla vulputate nunc nec.",
+              "Dui, massa viverra aliquet. Non varius proin."
+            ]
+          },
+          "categories": ["Furniture", "osCommerce", "3dcart"],
+          "tags": ["Office Chair", "Ergonomic", "Work"],
+          "discounts": 10,
+          "additionalInfo": "Ergonomic and comfortable design.",
+          "reviews": [
+            {
+              "stars": 5,
+              "image": "https://randomuser.me/api/portraits/men/4.jpg",
+              "comment": "Perfect for my long work hours!",
+              "reviewer": "User 459"
+            },
+            {
+              "stars": 4,
+              "image": "https://randomuser.me/api/portraits/women/5.jpg",
+              "comment": "Very comfortable and modern.",
+              "reviewer": "User 303"
+            }
+          ],
+          "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+          "featured": true,
+          "trending": false,
+          "specialOffer": false,
+          "createdAt": "2023-11-21T12:00:00Z"
+        },
+        {
+          "id": 3,
+          "name": "Red Beats Headphones",
+          "brand": "AudioXtreme",
+          "price": 150.0,
+          "colors": ["Red", "Black"],
+          "images": [
+            "/products/p25.png",
+            "/products/p4.png",
+            "/products/p26.png",
+            "/products/p37.png"
+          ],
+          "rating": {
+            "avg": 5,
+            "count": 3
+          },
+          "description": {
+            "heading": "Varius tempor.",
+            "desc": "Aliquam dis vulputate vulputate integer sagittis. Faucibus dolor ornare faucibus vel sed et eleifend habitasse amet.",
+            "More_Details": [
+              "Aliquam dis vulputate vulputate integer sagittis.",
+              "Faucibus ds diam arcu, nulla lobortis justo netus dis.",
+              "Eu in fringilla vulputate nunc nec.",
+              "Dui, massa viverra aliquet. Non varius proin."
+            ]
+          },
+          "categories": ["Accessories", "Watches", "Bags"],
+          "tags": ["Headphones", "Music", "Audio"],
+          "discounts": 15,
+          "additionalInfo": "High-quality audio experience.",
+          "reviews": [
+            {
+              "stars": 5,
+              "image": "https://randomuser.me/api/portraits/men/6.jpg",
+              "comment": "Amazing sound quality!",
+              "reviewer": "User 511"
+            }
+          ],
+          "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+          "featured": true,
+          "trending": true,
+          "specialOffer": false,
+          "createdAt": "2023-11-22T12:00:00Z"
+        },
+        {
+          "id": 4,
+          "name": "Smart Fitness Band",
+          "brand": "FitLife Tech",
+          "price": 90.0,
+          "colors": ["Black", "Gold"],
+          "images": [
+            "/products/p26.png",
+            "/products/p2.png",
+            "/products/p38.png",
+            "/products/p37.png"
+          ],
+          "rating": {
+            "avg": 4,
+            "count": 3
+          },
+          "description": {
+            "heading": "Varius tempor.",
+            "desc": "Aliquam dis vulputate vulputate integer sagittis. Faucibus dolor ornare faucibus vel sed et eleifend habitasse amet.",
+            "More_Details": [
+              "Aliquam dis vulputate vulputate integer sagittis.",
+              "Faucibus ds diam arcu, nulla lobortis justo netus dis.",
+              "Eu in fringilla vulputate nunc nec.",
+              "Dui, massa viverra aliquet. Non varius proin."
+            ]
+          },
+          "categories": ["Watches", "Accessories"],
+          "tags": ["Fitness", "Smartwatch", "Tech"],
+          "discounts": 20,
+          "additionalInfo": "Track your fitness seamlessly.",
+          "reviews": [
+            {
+              "stars": 5,
+              "image": "https://randomuser.me/api/portraits/women/8.jpg",
+              "comment": "Perfect fitness tracking!",
+              "reviewer": "User 100"
+            }
+          ],
+          "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+          "featured": false,
+          "trending": true,
+          "specialOffer": false,
+          "createdAt": "2023-11-23T12:00:00Z"
+        },
+        
+        {
+            "id": 5,
+            "name": "Minimalist Black Tote Bag",
+            "brand": "UrbanStyle Co.",
+            "price": 80.0,
+            "colors": ["Black", "White", "Gray"],
+            "images": [
+              "/products/p33.png",
+              "/products/p36.png",
+              "/products/p14.png",
+              "/products/p35.png"
+            ],
+            "rating": {
+              "avg": 4,
+              "count": 3
+            },
+            "description": {
+              "heading": "Varius tempor.",
+              "desc": "Aliquam dis vulputate vulputate integer sagittis. Faucibus dolor ornare faucibus vel sed et eleifend habitasse amet.",
+              "More_Details": [
+                "Aliquam dis vulputate vulputate integer sagittis.",
+                "Faucibus ds diam arcu, nulla lobortis justo netus dis.",
+                "Eu in fringilla vulputate nunc nec.",
+                "Dui, massa viverra aliquet. Non varius proin."
+              ]
+            },
+            "categories": ["Accessories", "Bags"],
+            "tags": ["Tote Bag", "Minimalist", "Stylish"],
+            "discounts": 10,
+            "additionalInfo": "Perfect for everyday use.",
+            "reviews": [
+              {
+                "stars": 5,
+                "image": "https://randomuser.me/api/portraits/women/5.jpg",
+                "comment": "Stylish and perfect for daily use!",
+                "reviewer": "User 201"
+              },
+              {
+                "stars": 4,
+                "image": "https://randomuser.me/api/portraits/men/6.jpg",
+                "comment": "Good quality for the price.",
+                "reviewer": "User 405"
+              }
+            ],
+            "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+            "featured": true,
+            "trending": true,
+            "specialOffer": true,
+            "createdAt": "2023-11-24T12:00:00Z"
+          },
+          {
+            "id": 6,
+            "name": "Elegant Green Perfume",
+            "brand": "LuxuryScents",
+            "price": 120.0,
+            "colors": ["Green", "Gold"],
+            "images": [
+              "/products/p35.png",
+              "/products/p28.png",
+              "/products/p4.png",
+              "/products/p26.png"
+            ],
+            "rating": {
+              "avg": 5,
+              "count": 3
+            },
+            "description": {
+              "heading": "Varius tempor.",
+              "desc": "Aliquam dis vulputate vulputate integer sagittis. Faucibus dolor ornare faucibus vel sed et eleifend habitasse amet.",
+              "More_Details": [
+                "Aliquam dis vulputate vulputate integer sagittis.",
+                "Faucibus ds diam arcu, nulla lobortis justo netus dis.",
+                "Eu in fringilla vulputate nunc nec.",
+                "Dui, massa viverra aliquet. Non varius proin."
+              ]
+            },
+            "categories": ["Accessories", "Jewellery"],
+            "tags": ["Perfume", "Luxury", "Scent"],
+            "discounts": 15,
+            "additionalInfo": "Signature scent for special occasions.",
+            "reviews": [
+              {
+                "stars": 5,
+                "image": "https://randomuser.me/api/portraits/men/8.jpg",
+                "comment": "Smells amazing and lasts long!",
+                "reviewer": "User 708"
+              }
+            ],
+            "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+            "featured": true,
+            "trending": false,
+            "specialOffer": true,
+            "createdAt": "2023-11-25T12:00:00Z"
+          },
+          {
+            "id": 7,
+            "name": "Modern Lounge Chair",
+            "brand": "CozyLiving Furniture",
+            "price": 350.0,
+            "colors": ["Gray", "Beige", "Brown"],
+            "images": [
+              "/products/p22.png",
+              "/products/p7.png",
+              "/products/p20.png",
+              "/products/p11.png"
+            ],
+            "rating": {
+              "avg": 4.5,
+              "count": 3
+            },
+            "description": {
+              "heading": "Varius tempor.",
+              "desc": "Aliquam dis vulputate vulputate integer sagittis. Faucibus dolor ornare faucibus vel sed et eleifend habitasse amet.",
+              "More_Details": [
+                "Aliquam dis vulputate vulputate integer sagittis.",
+                "Faucibus ds diam arcu, nulla lobortis justo netus dis.",
+                "Eu in fringilla vulputate nunc nec.",
+                "Dui, massa viverra aliquet. Non varius proin."
+              ]
+            },
+            "categories": ["Furniture", "Prestashop"],
+            "tags": ["Furniture", "Chair", "Lounge"],
+            "discounts": 10,
+            "additionalInfo": "Perfect for your living room.",
+            "reviews": [
+              {
+                "stars": 5,
+                "image": "https://randomuser.me/api/portraits/women/3.jpg",
+                "comment": "Super comfortable and stylish!",
+                "reviewer": "User 603"
+              }
+            ],
+            "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+            "featured": true,
+            "trending": true,
+            "specialOffer": true,
+            "createdAt": "2023-11-26T12:00:00Z"
+          },
+          {
+            "id": 8,
+            "name": "White Fitness Smartwatch",
+            "brand": "TechTrendz",
+            "price": 99.0,
+            "colors": ["White", "Black"],
+            "images": [
+              "/products/p26.png",
+              "/products/p2.png",
+              "/products/p37.png",
+              "/products/p38.png"
+            ],
+            "rating": {
+              "avg": 4,
+              "count": 3
+            },
+            "description": {
+              "heading": "Varius tempor.",
+              "desc": "Aliquam dis vulputate vulputate integer sagittis. Faucibus dolor ornare faucibus vel sed et eleifend habitasse amet.",
+              "More_Details": [
+                "Aliquam dis vulputate vulputate integer sagittis.",
+                "Faucibus ds diam arcu, nulla lobortis justo netus dis.",
+                "Eu in fringilla vulputate nunc nec.",
+                "Dui, massa viverra aliquet. Non varius proin."
+              ]
+            },
+            "categories": ["Watches", "Accessories"],
+            "tags": ["Fitness", "Smartwatch", "Wearable"],
+            "discounts": 10,
+            "additionalInfo": "Stay fit and track your activity.",
+            "reviews": [
+              {
+                "stars": 4,
+                "image": "https://randomuser.me/api/portraits/men/5.jpg",
+                "comment": "Works great and looks sleek.",
+                "reviewer": "User 450"
+              }
+            ],
+            "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+            "featured": false,
+            "trending": true,
+            "specialOffer": false,
+            "createdAt": "2023-11-27T12:00:00Z"
+          },
+          {
+            "id": 9,
+            "name": "Stylish Blue Shoes",
+            "brand": "StepForward",
+            "price": 130.0,
+            "colors": ["Blue", "Green"],
+            "images": [
+              "/products/p28.png",
+              "/products/p19.png",
+              "/products/p25.png",
+              "/products/p37.png"
+            ],
+            "rating": {
+              "avg": 4.7,
+              "count": 3
+            },
+            "description": {
+              "heading": "Varius tempor.",
+              "desc": "Aliquam dis vulputate vulputate integer sagittis. Faucibus dolor ornare faucibus vel sed et eleifend habitasse amet.",
+              "More_Details": [
+                "Aliquam dis vulputate vulputate integer sagittis.",
+                "Faucibus ds diam arcu, nulla lobortis justo netus dis.",
+                "Eu in fringilla vulputate nunc nec.",
+                "Dui, massa viverra aliquet. Non varius proin."
+              ]
+            },
+            "categories": ["Accessories", "Shoes"],
+            "tags": ["Shoes", "Stylish", "Footwear"],
+            "discounts": 5,
+            "additionalInfo": "Comfortable and durable shoes.",
+            "reviews": [
+              {
+                "stars": 5,
+                "image": "https://randomuser.me/api/portraits/men/7.jpg",
+                "comment": "Love these stylish shoes!",
+                "reviewer": "User 212"
+              }
+            ],
+            "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+            "featured": false,
+            "trending": true,
+            "specialOffer": false,
+            "createdAt": "2023-11-28T12:00:00Z"
+          },
+            {
+              "id": 10,
+              "name": "Modern Red Lounge Chair",
+              "brand": "Urban Furnishings",
+              "price": 299.0,
+              "colors": ["Red", "Black"],
+              "images": [
+                "/products/p21.png",
+                "/products/p15.png",
+                "/products/p22.png",
+                "/products/p7.png"
+              ],
+              "rating": {
+                "avg": 4.2,
+                "count": 3
+              },
+              "description": {
+                "heading": "Contemporary design.",
+                "desc": "A sleek and modern red lounge chair for stylish interiors. Perfect for home and office decor.",
+                "More_Details": [
+                  "High-quality materials and durable structure.",
+                  "Comfortable cushion for extended sitting.",
+                  "Sleek red design with black accents.",
+                  "Perfect addition to modern interiors."
+                ]
+              },
+              "categories": ["Furniture", "Prestashop"],
+              "tags": ["Chair", "Modern", "Red"],
+              "discounts": 10,
+              "additionalInfo": "Modern design with premium comfort.",
+              "reviews": [
+                {
+                  "stars": 5,
+                  "image": "https://randomuser.me/api/portraits/women/10.jpg",
+                  "comment": "Absolutely love the modern look and feel!",
+                  "reviewer": "User 550"
+                }
+              ],
+              "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+              "featured": true,
+              "trending": true,
+              "specialOffer": false,
+              "createdAt": "2023-11-29T12:00:00Z"
+            },
+            {
+              "id": 11,
+              "name": "Luxury Black Leather Bag",
+              "brand": "Elite Accessories",
+              "price": 250.0,
+              "colors": ["Black"],
+              "images": [
+                "/products/p36.png",
+                "/products/p34.png",
+                "/products/p33.png",
+                "/products/p35.png"
+              ],
+              "rating": {
+                "avg": 4.7,
+                "count": 3
+              },
+              "description": {
+                "heading": "Timeless elegance.",
+                "desc": "A luxury black leather bag designed for both fashion and function. A must-have accessory.",
+                "More_Details": [
+                  "Premium black leather for durability.",
+                  "Spacious compartments for essentials.",
+                  "Stylish design suitable for all occasions.",
+                  "Durable stitching and handle."
+                ]
+              },
+              "categories": ["Bags", "Accessories"],
+              "tags": ["Bag", "Luxury", "Leather"],
+              "discounts": 15,
+              "additionalInfo": "Perfect for daily use or special occasions.",
+              "reviews": [
+                {
+                  "stars": 5,
+                  "image": "https://randomuser.me/api/portraits/men/12.jpg",
+                  "comment": "Amazing quality, I use it daily!",
+                  "reviewer": "User 610"
+                }
+              ],
+              "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+              "featured": false,
+              "trending": true,
+              "specialOffer": true,
+              "createdAt": "2023-11-30T12:00:00Z"
+            },
+            {
+              "id": 12,
+              "name": "Green Leather Casual Shoes",
+              "brand": "Step Forward",
+              "price": 130.0,
+              "colors": ["Green", "Brown"],
+              "images": [
+                "/products/p28.png",
+                "/products/p35.png",
+                "/products/p25.png",
+                "/products/p19.png"
+              ],
+              "rating": {
+                "avg": 4.5,
+                "count": 3
+              },
+              "description": {
+                "heading": "Stylish and comfortable.",
+                "desc": "Stylish green leather shoes perfect for casual wear. Combines durability with comfort.",
+                "More_Details": [
+                  "Premium leather material.",
+                  "Comfortable insole for all-day wear.",
+                  "Elegant green color with modern design.",
+                  "Suitable for casual and semi-formal attire."
+                ]
+              },
+              "categories": ["Accessories", "Shoes"],
+              "tags": ["Shoes", "Casual", "Leather"],
+              "discounts": 10,
+              "additionalInfo": "Perfect fit for modern fashion lovers.",
+              "reviews": [
+                {
+                  "stars": 5,
+                  "image": "https://randomuser.me/api/portraits/women/15.jpg",
+                  "comment": "So comfortable and stylish, love these shoes!",
+                  "reviewer": "User 725"
+                }
+              ],
+              "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+              "featured": true,
+              "trending": false,
+              "specialOffer": true,
+              "createdAt": "2023-12-01T12:00:00Z"
+            },
+            {
+              "id": 13,
+              "name": "White Minimal Smartwatch",
+              "brand": "TechStyle Wearables",
+              "price": 120.0,
+              "colors": ["White", "Silver"],
+              "images": [
+                "/products/p26.png",
+                "/products/p38.png",
+                "/products/p2.png",
+                "/products/p37.png"
+              ],
+              "rating": {
+                "avg": 4.8,
+                "count": 3
+              },
+              "description": {
+                "heading": "Your fitness companion.",
+                "desc": "A sleek and minimal white smartwatch designed for fitness and daily tracking.",
+                "More_Details": [
+                  "Tracks steps, heart rate, and sleep.",
+                  "Sleek white design with modern interface.",
+                  "Long battery life with quick charging.",
+                  "Compatible with iOS and Android devices."
+                ]
+              },
+              "categories": ["Watches", "Accessories"],
+              "tags": ["Smartwatch", "Fitness", "Wearable"],
+              "discounts": 12,
+              "additionalInfo": "Stay connected and active.",
+              "reviews": [
+                {
+                  "stars": 5,
+                  "image": "https://randomuser.me/api/portraits/men/18.jpg",
+                  "comment": "Great features and sleek design.",
+                  "reviewer": "User 890"
+                }
+              ],
+              "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+              "featured": false,
+              "trending": true,
+              "specialOffer": true,
+              "createdAt": "2023-12-02T12:00:00Z"
+            },
+            {
+              "id": 14,
+              "name": "Pink High-Back Velvet Chair",
+              "brand": "Elegant Interiors",
+              "price": 310.0,
+              "colors": ["Pink", "Gold"],
+              "images": [
+                "/products/p16.png",
+                "/products/p17.png",
+                "/products/p18.png",
+                "/products/p22.png"
+              ],
+              "rating": {
+                "avg": 4.4,
+                "count": 3
+              },
+              "description": {
+                "heading": "Luxurious comfort.",
+                "desc": "A pink high-back velvet chair perfect for modern interiors. Adds elegance to any space.",
+                "More_Details": [
+                  "Premium velvet material.",
+                  "High backrest for ultimate comfort.",
+                  "Sturdy golden legs with durable design.",
+                  "Perfect for living rooms or bedrooms."
+                ]
+              },
+              "categories": ["Furniture", "Accessories"],
+              "tags": ["Chair", "Velvet", "Luxury"],
+              "discounts": 8,
+              "additionalInfo": "Comfort meets style.",
+              "reviews": [
+                {
+                  "stars": 5,
+                  "image": "https://randomuser.me/api/portraits/women/20.jpg",
+                  "comment": "Such a gorgeous and comfy chair!",
+                  "reviewer": "User 120"
+                }
+              ],
+              "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+              "featured": true,
+              "trending": false,
+              "specialOffer": true,
+              "createdAt": "2023-12-03T12:00:00Z"
+            },
+            
+            {
+                "id": 15,
+                "name": "Modern Gray Upholstered Chair",
+                "brand": "CozyHomes Furniture",
+                "price": 270.0,
+                "colors": ["Gray", "Beige"],
+                "images": [
+                  "/products/p7.png",
+                  "/products/p20.png",
+                  "/products/p22.png",
+                  "/products/p14.png"
+                ],
+                "rating": {
+                  "avg": 4.3,
+                  "count": 3
+                },
+                "description": {
+                  "heading": "Stylish and modern.",
+                  "desc": "A gray upholstered chair that offers both comfort and contemporary style. Perfect for any living space.",
+                  "More_Details": [
+                    "Soft, durable upholstery.",
+                    "High backrest for added comfort.",
+                    "Neutral gray color blends with decor.",
+                    "Ideal for living rooms or bedrooms."
+                  ]
+                },
+                "categories": ["Furniture", "Prestashop"],
+                "tags": ["Chair", "Modern", "Comfort"],
+                "discounts": 5,
+                "additionalInfo": "Adds a touch of sophistication to your space.",
+                "reviews": [
+                  {
+                    "stars": 5,
+                    "image": "https://randomuser.me/api/portraits/men/10.jpg",
+                    "comment": "Perfect chair for my study room!",
+                    "reviewer": "User 321"
+                  }
+                ],
+                "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+                "featured": true,
+                "trending": true,
+                "specialOffer": false,
+                "createdAt": "2023-12-04T12:00:00Z"
+              },
+              {
+                "id": 16,
+                "name": "Red Plastic Dining Chair",
+                "brand": "UrbanLiving Essentials",
+                "price": 150.0,
+                "colors": ["Red", "Brown"],
+                "images": [
+                  "/products/p21.png",
+                  "/products/p25.png",
+                  "/products/p13.png",
+                  "/products/p15.png"
+                ],
+                "rating": {
+                  "avg": 4.0,
+                  "count": 3
+                },
+                "description": {
+                  "heading": "Perfect for dining.",
+                  "desc": "A bright red plastic chair with a sleek design, ideal for modern dining spaces.",
+                  "More_Details": [
+                    "Durable plastic material.",
+                    "Lightweight and easy to move.",
+                    "Modern red design adds vibrance.",
+                    "Easy to clean and maintain."
+                  ]
+                },
+                "categories": ["Furniture", "Accessories"],
+                "tags": ["Chair", "Dining", "Modern"],
+                "discounts": 10,
+                "additionalInfo": "Ideal for kitchens and dining rooms.",
+                "reviews": [
+                  {
+                    "stars": 4,
+                    "image": "https://randomuser.me/api/portraits/women/12.jpg",
+                    "comment": "Bright and lightweight, fits perfectly!",
+                    "reviewer": "User 435"
+                  }
+                ],
+                "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+                "featured": true,
+                "trending": false,
+                "specialOffer": true,
+                "createdAt": "2023-12-05T12:00:00Z"
+              },
+              {
+                "id": 17,
+                "name": "Minimalist Black Smartwatch",
+                "brand": "TimeTech",
+                "price": 99.0,
+                "colors": ["Black", "Gold"],
+                "images": [
+                  "/products/p38.png",
+                  "/products/p2.png",
+                  "/products/p26.png",
+                  "/products/p37.png"
+                ],
+                "rating": {
+                  "avg": 4.6,
+                  "count": 3
+                },
+                "description": {
+                  "heading": "Stay on track.",
+                  "desc": "A sleek black minimalist smartwatch with fitness tracking and modern functionality.",
+                  "More_Details": [
+                    "Monitors steps, heart rate, and calories.",
+                    "Sleek black design with gold accents.",
+                    "Long battery life and fast charging.",
+                    "Compatible with all devices."
+                  ]
+                },
+                "categories": ["Watches", "Tech"],
+                "tags": ["Smartwatch", "Fitness", "Wearable"],
+                "discounts": 12,
+                "additionalInfo": "Track your health with style.",
+                "reviews": [
+                  {
+                    "stars": 5,
+                    "image": "https://randomuser.me/api/portraits/men/13.jpg",
+                    "comment": "Amazing smartwatch at this price!",
+                    "reviewer": "User 522"
+                  }
+                ],
+                "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+                "featured": false,
+                "trending": true,
+                "specialOffer": true,
+                "createdAt": "2023-12-06T12:00:00Z"
+              },
+              {
+                "id": 18,
+                "name": "Luxury Velvet Armchair",
+                "brand": "Elegant Homes",
+                "price": 350.0,
+                "colors": ["Pink", "Red", "Gold"],
+                "images": [
+                  "/products/p16.png",
+                  "/products/p18.png",
+                  "/products/p17.png",
+                  "/products/p22.png"
+                ],
+                "rating": {
+                  "avg": 3.7,
+                  "count": 3
+                },
+                "description": {
+                  "heading": "Sophisticated luxury.",
+                  "desc": "A luxurious pink velvet armchair with a high backrest and elegant golden legs.",
+                  "More_Details": [
+                    "Premium velvet fabric for ultimate comfort.",
+                    "Durable and sturdy golden base.",
+                    "Perfect for living rooms and reading nooks.",
+                    "High-quality craftsmanship and materials."
+                  ]
+                },
+                "categories": ["Furniture", "Prestashop"],
+                "tags": ["Chair", "Luxury", "Velvet"],
+                "discounts": 8,
+                "additionalInfo": "Adds elegance to any space.",
+                "reviews": [
+                  {
+                    "stars": 5,
+                    "image": "https://randomuser.me/api/portraits/women/16.jpg",
+                    "comment": "Absolutely gorgeous and comfy!",
+                    "reviewer": "User 720"
+                  }
+                ],
+                "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+                "featured": true,
+                "trending": false,
+                "specialOffer": true,
+                "createdAt": "2024-12-07T12:00:00Z"
+              },
+              {
+                "id": 19,
+                "name": "Classic Wooden Chair",
+                "brand": "Heritage Furniture Co.",
+                "price": 180.0,
+                "colors": ["Brown", "Beige"],
+                "images": [
+                  "/products/p13.png",
+                  "/products/p19.png",
+                  "/products/p12.png",
+                  "/products/p15.png"
+                ],
+                "rating": {
+                  "avg": 4.2,
+                  "count": 3
+                },
+                "description": {
+                  "heading": "Timeless design.",
+                  "desc": "A classic wooden chair with elegant structure, ideal for traditional and modern homes alike.",
+                  "More_Details": [
+                    "Sturdy wooden build for long-lasting use.",
+                    "Comfortable seat for extended sitting.",
+                    "Traditional yet versatile design.",
+                    "Perfect for dining and living spaces."
+                  ]
+                },
+                "categories": ["Furniture", "Accessories"],
+                "tags": ["Chair", "Wooden", "Classic"],
+                "discounts": 5,
+                "additionalInfo": "Blend of comfort and style.",
+                "reviews": [
+                  {
+                    "stars": 4,
+                    "image": "https://randomuser.me/api/portraits/men/14.jpg",
+                    "comment": "Sturdy and well-crafted chair.",
+                    "reviewer": "User 610"
+                  }
+                ],
+                "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+                "featured": true,
+                "trending": true,
+                "specialOffer": false,
+                "createdAt": "2023-12-08T12:00:00Z"
+              },  
+
+              {
+                  "id": 20,
+                  "name": "Black Leather Laptop Backpack",
+                  "brand": "TechStyle Gear",
+                  "price": 210.0,
+                  "colors": ["Black", "Gray"],
+                  "images": [
+                    "/products/p34.png",
+                    "/products/p36.png",
+                    "/products/p33.png",
+                    "/products/p11.png"
+                  ],
+                  "rating": {
+                    "avg": 4.5,
+                    "count": 3
+                  },
+                  "description": {
+                    "heading": "Smart and spacious.",
+                    "desc": "A sleek black leather backpack designed for laptops and everyday essentials. Perfect for professionals.",
+                    "More_Details": [
+                      "Premium leather material for durability.",
+                      "Multiple compartments for organization.",
+                      "Stylish design with comfortable straps.",
+                      "Perfect for work and travel."
+                    ]
+                  },
+                  "categories": ["Bags", "Accessories"],
+                  "tags": ["Backpack", "Laptop Bag", "Professional"],
+                  "discounts": 10,
+                  "additionalInfo": "Ideal for daily commutes and travel.",
+                  "reviews": [
+                    {
+                      "stars": 5,
+                      "image": "https://randomuser.me/api/portraits/women/21.jpg",
+                      "comment": "High quality and fits everything I need!",
+                      "reviewer": "User 700"
+                    }
+                  ],
+                  "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+                  "featured": true,
+                  "trending": true,
+                  "specialOffer": false,
+                  "createdAt": "2023-12-09T12:00:00Z"
+                },
+                {
+                  "id": 21,
+                  "name": "Elegant Red Velvet Chair",
+                  "brand": "LuxuryLiving Designs",
+                  "price": 310.0,
+                  "colors": ["Red", "Gold"],
+                  "images": [
+                    "/products/p18.png",
+                    "/products/p16.png",
+                    "/products/p7.png",
+                    "/products/p20.png"
+                  ],
+                  "rating": {
+                    "avg": 3.7,
+                    "count": 3
+                  },
+                  "description": {
+                    "heading": "Luxurious seating.",
+                    "desc": "A red velvet chair with golden legs. Perfect for adding a touch of sophistication to your living space.",
+                    "More_Details": [
+                      "Soft velvet material for comfort.",
+                      "Golden legs for a luxurious finish.",
+                      "Compact design ideal for modern interiors.",
+                      "Sturdy and long-lasting build."
+                    ]
+                  },
+                  "categories": ["Furniture", "Prestashop"],
+                  "tags": ["Chair", "Velvet", "Luxury"],
+                  "discounts": 8,
+                  "additionalInfo": "Perfect for elegant interiors.",
+                  "reviews": [
+                    {
+                      "stars": 5,
+                      "image": "https://randomuser.me/api/portraits/men/17.jpg",
+                      "comment": "Looks luxurious and feels very comfortable.",
+                      "reviewer": "User 815"
+                    }
+                  ],
+                  "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+                  "featured": true,
+                  "trending": false,
+                  "specialOffer": true,
+                  "createdAt": "2023-12-10T12:00:00Z"
+                },
+                {
+                  "id": 22,
+                  "name": "Modern White Plastic Chair",
+                  "brand": "Urban Essentials",
+                  "price": 150.0,
+                  "colors": ["White", "Red"],
+                  "images": [
+                    "/products/p14.png",
+                    "/products/p19.png",
+                    "/products/p22.png",
+                    "/products/p21.png"
+                  ],
+                  "rating": {
+                    "avg": 4.0,
+                    "count": 3
+                  },
+                  "description": {
+                    "heading": "Minimalist design.",
+                    "desc": "A white plastic chair with a smooth design, perfect for dining and workspace setups.",
+                    "More_Details": [
+                      "Durable plastic construction.",
+                      "Lightweight and easy to carry.",
+                      "Stylish design for modern interiors.",
+                      "Easy to clean and maintain."
+                    ]
+                  },
+                  "categories": ["Furniture", "Accessories"],
+                  "tags": ["Chair", "Modern", "Minimalist"],
+                  "discounts": 5,
+                  "additionalInfo": "Perfect for kitchens and workspaces.",
+                  "reviews": [
+                    {
+                      "stars": 4,
+                      "image": "https://randomuser.me/api/portraits/women/19.jpg",
+                      "comment": "Clean, modern look. Easy to clean!",
+                      "reviewer": "User 420"
+                    }
+                  ],
+                  "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+                  "featured": false,
+                  "trending": true,
+                  "specialOffer": false,
+                  "createdAt": "2023-12-11T12:00:00Z"
+                },
+                {
+                  "id": 23,
+                  "name": "Pantene Gold Hair Care",
+                  "brand": "HairCare Essentials",
+                  "price": 20.0,
+                  "colors": ["Gold", "Black"],
+                  "images": [
+                    "/products/p27.png",
+                    "/products/p35.png",
+                    "/products/p37.png",
+                    "/products/p26.png"
+                  ],
+                  "rating": {
+                    "avg": 4.0,
+                    "count": 3
+                  },
+                  "description": {
+                    "heading": "Advanced hair care.",
+                    "desc": "Pantene's gold series hair care product for advanced repair and nourishment.",
+                    "More_Details": [
+                      "Restores hair strength and shine.",
+                      "Perfect for daily use.",
+                      "Lightweight formula for all hair types.",
+                      "Dermatologically tested and safe."
+                    ]
+                  },
+                  "categories": ["Accessories", "Haircare"],
+                  "tags": ["Hair Care", "Pantene", "Gold Series"],
+                  "discounts": 15,
+                  "additionalInfo": "Restore your hair to its natural shine.",
+                  "reviews": [
+                    {
+                      "stars": 5,
+                      "image": "https://randomuser.me/api/portraits/women/20.jpg",
+                      "comment": "My hair feels so soft and healthy!",
+                      "reviewer": "User 980"
+                    }
+                  ],
+                  "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+                  "featured": true,
+                  "trending": false,
+                  "specialOffer": true,
+                  "createdAt": "2024-12-12T12:00:00Z"
+                },
+                {
+                  "id": 24,
+                  "name": "Beats Red Wireless Headphones",
+                  "brand": "AudioPro",
+                  "price": 160.0,
+                  "colors": ["Red", "Black"],
+                  "images": [
+                    "/products/p25.png",
+                    "/products/p4.png",
+                    "/products/p37.png",
+                    "/products/p26.png"
+                  ],
+                  "rating": {
+                    "avg": 3.8,
+                    "count": 3
+                  },
+                  "description": {
+                    "heading": "Immersive sound.",
+                    "desc": "Premium wireless headphones with deep bass and clear sound. Perfect for music lovers.",
+                    "More_Details": [
+                      "Wireless connectivity with long battery life.",
+                      "Soft ear cushions for comfort.",
+                      "Superior sound quality with bass boost.",
+                      "Compatible with all devices."
+                    ]
+                  },
+                  "categories": ["Tech", "Accessories"],
+                  "tags": ["Headphones", "Wireless", "Audio"],
+                  "discounts": 10,
+                  "additionalInfo": "Experience music like never before.",
+                  "reviews": [
+                    {
+                      "stars": 5,
+                      "image": "https://randomuser.me/api/portraits/men/23.jpg",
+                      "comment": "Amazing sound quality and comfort!",
+                      "reviewer": "User 450"
+                    }
+                  ],
+                  "video": "https://www.youtube.com/watch?v=gYvamTSukTc",
+                  "featured": true,
+                  "trending": true,
+                  "specialOffer": true,
+                  "createdAt": "2024-12-13T12:00:00Z"
+                }
+
+            ]
+  
