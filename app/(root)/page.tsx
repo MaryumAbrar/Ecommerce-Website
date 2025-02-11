@@ -11,15 +11,12 @@ import Trending from "@/components/Home/Trending";
 import Unique from "@/components/Home/Unique";
 
 
-
-export const revalidate = 3600
-
 export default async function Home() {
   const [featuredProducts, latestProducts,trendingProducts,topCategories] = await Promise.all([
-    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/products/featuredProducts`).then(res => res.json()),
-    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/products/latestProducts`).then(res => res.json()),
-    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/products/trendingProducts`).then(res => res.json()),
-    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/products/topCategories`).then(res => res.json()),
+    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/products/featuredProducts`, {cache: "no-store",}).then(res => res.json()),
+    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/products/latestProducts` ,{cache: "no-store",}).then(res => res.json()),
+    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/products/trendingProducts`,{cache: "no-store",}).then(res => res.json()),
+    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/products/topCategories`,{cache: "no-store",}).then(res => res.json()),
   ]);
 
   return (

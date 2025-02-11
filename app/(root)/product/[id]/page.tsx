@@ -14,7 +14,7 @@ import RelatedProduct from "@/components/common/RelatedProduct";
 const ProductDetails = async ({ params }: any) => {
   const { id } = await params;
 
-  let product = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/products/${id}`).then((res) => res.json());
+  let product = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/products/${id}`,{cache: "no-store",}).then((res) => res.json());
   let discountPrice = product.price - product.price * (product.discounts / 100);
 
   return (
